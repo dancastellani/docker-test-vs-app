@@ -1,4 +1,4 @@
-FROM 012345678910.dkr.ecr.us-east-1.amazonaws.com/base-image
+FROM 441870321480.dkr.ecr.us-east-1.amazonaws.com/test-image-vuln-scan-base
 
     ENV PORT=80
 
